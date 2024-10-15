@@ -1,0 +1,50 @@
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+.nav{
+    font-family: 'Gilroy-Bold';
+    height: 90px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+.navPart1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+.nikeLogo{
+    margin-right: 150px;
+}
+.navPart1 h4{
+    margin-right: 60px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+.navPart1 h4:hover{
+    color: #007BFF;
+}
+.navPart2{
+    color: black;
+    font-size: 21px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+.navPart2 svg{
+    transition: color 0.3s ease;
+}
+.navPart2 svg:hover{
+    color: #007BFF;
+}
+.searchIcon{
+    margin-right: 40px;
+}
+.cartIcon{
+    margin-right: 40px;
+}
+.menuIcon{
+    margin-right: 40px;
+}
