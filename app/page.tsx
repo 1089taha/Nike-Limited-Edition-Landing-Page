@@ -21,7 +21,7 @@ export default function Home() {
             <h5>Explore Limited Edition</h5>
             <h1>Nike Limited Edition</h1>
             <p>
-              Discover Nike’s exclusive Limited Edition collection—designed to
+              Discover Nike&apos;s exclusive Limited Edition collection—designed to
               push boundaries with bold style and peak performance. Crafted for
               athletes and enthusiasts alike, these shoes deliver unmatched
               comfort, durability, and innovation. Elevate your game and make a
@@ -33,37 +33,37 @@ export default function Home() {
             <div className={cssstyle.elem}>
               <Image src={shoePic1} alt="" className={cssstyle.shoeImage} />
               <h4>Lebron 12</h4>
-              <h5>Men's Basketball Shoes</h5>
+              <h5>Men&apos;s Basketball Shoes</h5>
             </div>
             <div className={cssstyle.elem}>
               <Image src={shoePic2} alt="" className={cssstyle.shoeImage} />
               <h4>Nike Air Pegasus 39</h4>
-              <h5>Men's Shoes</h5>
+              <h5>Men&apos;s Shoes</h5>
             </div>
             <div className={cssstyle.elem}>
               <Image src={shoePic3} alt="" className={cssstyle.shoeImage} />
               <h4>Air Jordan</h4>
-              <h5>Men’s Sneakers</h5>
+              <h5>Men&apos;s Sneakers</h5>
             </div>
             <div className={cssstyle.elem}>
               <Image src={shoePic4} alt="" className={cssstyle.shoeImage} />
               <h4>Nike TN</h4>
-              <h5>Men’s football shoes</h5>
+              <h5>Men&apos;s football shoes</h5>
             </div>
             <div className={cssstyle.elem}>
               <Image src={shoePic5} alt="" className={cssstyle.shoeImage} />
               <h4>Pink Air Winflo 9 </h4>
-              <h5>Women's Running Shoes</h5>
+              <h5>Women&apos;s Running Shoes</h5>
             </div>
             <div className={cssstyle.elem}>
               <Image src={shoePic6} alt="" className={cssstyle.shoeImage} />
               <h4>Nike Air Huarache</h4>
-              <h5>Women's Sneakers</h5>
+              <h5>Women&apos;s Sneakers</h5>
             </div>
             <div className={cssstyle.elem}>
               <Image src={shoePic7} alt="" className={cssstyle.shoeImage} />
               <h4>Air Max 90</h4>
-              <h5>Womens Trainers</h5>
+              <h5>Women&apos;s Trainers</h5>
             </div>
           </div>
         </div>
